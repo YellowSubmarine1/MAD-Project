@@ -1,0 +1,58 @@
+# In Server
+  given_name: 'Emmachanged',
+  family_name: 'Smith Changed',
+  email: 'emma.smith@example.com'
+
+# Current
+{
+  "given_name": "Charles",
+  "family_name": "Modi",
+  "email": "cm@mail.co.uk",
+  "password": "Cheese"
+}
+login
+{
+    "id": 7,
+        "token": "2a04a01c9fac1496a5bc041e403d0150"
+}
+
+
+{
+  "timestamp": 15,
+  "chit_content": "Hey, How are things going",
+  "location": {
+    "longitude": 0,
+    "latitude": 0
+  },
+  "user": {
+    "user_id": 7,
+    "given_name": "Charles",
+    "family_name": "Modi",
+    "email": "cm@mail.co.uk"
+  }
+}
+
+# Second User
+
+{
+    "given_name": "Phillip",
+    "family_name": "Anderson",
+    "email": "phillipanderson@mail.co.uk",
+    "password": "ApplePie"
+}
+{
+    "id": 8,
+    "token": "ac1182ce2fda0cb73293fa7668495a2f"
+}
+
+# Third User
+{
+    "given_name": "John",
+    "family_name": "Doe",
+    "email": "johndoe@mail.co.uk",
+    "password": "chocolate"
+}
+{
+    "id": 9,
+    "token": "1c2c6a07226366eca8b9de5a8f32092a"
+}
